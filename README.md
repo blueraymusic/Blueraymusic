@@ -12,7 +12,7 @@
 
 ## Hello, I’m Adel.
 
-I’m a computer science student in Toronto exploring the space where **machine learning**, **computer vision**, and thoughtful software meet. I enjoy turning ambitious ideas into working prototypes—and approaching hard problems the same way I approach a chessboard: observe, calculate, commit.
+I’m a computer science student exploring the space where **machine learning**, **computer vision**, and thoughtful software meet. I enjoy turning ambitious ideas into working prototypes—and approaching hard problems the same way I approach a chessboard: observe, calculate, commit.
 
 ```text
 CURRENT FREQUENCY
