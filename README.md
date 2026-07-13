@@ -92,7 +92,7 @@ Projects and larger systems I’ve worked with alongside the open-source communi
 
 | Project | What it explores | Built with |
 | :--- | :--- | :--- |
-| **[LingoShell](https://github.com/blueraymusic/LingoShell)** | Natural-language control for the terminal | Natural language · HTML |
+| **[LingoShell](https://github.com/blueraymusic/LingoShell)** | Natural-language control for the terminal | Python |
 | **[Blueray Music](https://github.com/blueraymusic/Blueray)** | Music paired with immersive background visuals | JavaScript · HTML · CSS |
 | **[Chatbot](https://github.com/blueraymusic/Chatbot)** | A ChatGPT-style web assistant with a Python server | Python · JavaScript · HTML · CSS |
 | **[ShellBot](https://github.com/blueraymusic/ShellBot)** | An AI command-line assistant | AI tooling · HTML |
