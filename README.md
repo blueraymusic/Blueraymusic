@@ -1,7 +1,4 @@
 
-Or, if you're going for a more hacker/minimal aesthetic:
-
-```text
 Hi, I am .... → Blueray 👀
 
 Find the "..." move.
@@ -16,6 +13,8 @@ Draw 😲
 
 Contact:
 sissokoadel057@gmail.com
+
+```text
 
 $ cd ~/Desktop
 $ blueray create -h
