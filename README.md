@@ -1,7 +1,7 @@
 Hi, I'm .... → Blueray 👀
 
 
-Can you find the "..." move? 🤔
+Can you find the "..." move? :)
 
 <pre>
 Bb6+  Kf7
