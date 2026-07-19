@@ -4,10 +4,10 @@ Hi, I'm .... → Blueray 👀
 Can you find the "..." move? :)
 
 <pre>
-Bb6+  Kf7
-Rc1   Rg5
-Rc7+  Kg6
-Rc6   Bf1
+48. Bb6+  Kf7
+49. Rc1   Rg5
+50. Rc7+  Kg6
+51. Rc6   Bf1
 ...
 </pre>
 
