@@ -1,6 +1,5 @@
 Hi, I'm .... → Blueray 👀
 
-────────────────────────────────────
 
 Can you find the "..." move? 🤔
 
@@ -12,7 +11,6 @@ Rc6    Bf1
 
 → Draw 😲
 
-────────────────────────────────────
 
 ✉️ sissokoadel057@gmail.com
 
